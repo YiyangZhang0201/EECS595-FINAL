@@ -16,3 +16,4 @@ The environment I used is python 3.8 and pytorch 1.10 with RTX3080 GPU
 * Notebook "GetData" is the python crawler
 * Notebook "DataProcess1" is the preprocss of the raw news data
 * "BERT.py" is the file that train and evaluate the BERT model, use "python BERT.py" to run this file in terminal and get the train and validation result of BERT model.
+* "LSTMmodel.py" is the file that contains train, evaluate and predict of the LSTM model and the bscktesting framework of the project. Uss "python LSTMmodel.py" in terminal to run this file.
